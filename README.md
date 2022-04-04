@@ -1,6 +1,14 @@
 ## Olá, eu sou Matheus Souza 👋<br>
 
-- 🌱 Estudando Desenvolvimento Web na [Trybe](https://www.betrybe.com/) || Full-Stack!<br><br>
+- 🌱 Estudando Desenvolvimento Web na [Trybe](https://www.betrybe.com/) || Full-Stack!
+- 📬 Você pode me contatar em <a href = "mailto:conradosmatheus@gmail.com">conradosmatheus@gmail.com</a>
+- 💪 Gosto futebol e também de estar com minha familia e amigos!</br>
+
+## Sobre mim 🙋🏾
+
+Em junho de 2021 iniciei minha trajetória na programação no curso de desenvolvimento web da Trybe, escolhi essa área pois gosto muito de desafios e resolver logicas com soluções criativas.
+
+## GitHub Stats 🔥
 
 <div align="center">
   <a href="https://github.com/msconrado">
@@ -28,7 +36,7 @@
    <a target="_blank" rel="noopener noreferrer" href="https://octocat-generator-assets.githubusercontent.com/my-octocat-1635867691437.png"><img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1635867691437.png" width="250px" style="max-width: 100%;"></a>
 </div></br>
 
-## Siga-me 🙋🏾
+## Siga-me 🤝
 
 <div>
   <a href="https://www.instagram.com/mtsconrado/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
